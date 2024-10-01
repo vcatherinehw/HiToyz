@@ -1,0 +1,28 @@
+/* Event */
+.container .offer:not(:last-of-type) {
+  margin-bottom: 2rem;
+}
+
+.offer {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.promo img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.promo h3 {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.promo p {
+  font-size: 16px;
+  line-height: 1.5;
+}
