@@ -1,1 +1,2 @@
-# HiToyz
+HI-Toyz is a toy store that has been around since 2019. HI-Toyz is a toy store that sells plastic model kits and figure statues. HI-toyz has a special place in the hearts of local collectors, HI-Toyz provides a selection of toys from various brands and has also become an activity center for toy collectors. HI-Toyz has also become an official reseller for big brands such as tamiya, bandai, mattel toys, mini-GT and others.
+HI-Toyz is currently planning to create a website to sell products online, so they can reach more buyer from all around the world. HI-Toyz needs to create a website prototype and company website that represents the HI-Toyz image. 
